@@ -1,3 +1,3 @@
-# Seminar 1
+# Seminar 1 Hanieh Memarian
 
-Materials related to Seminar 1.
+Federated Learning
