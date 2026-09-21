@@ -1,1 +1,3 @@
-## Graph Neural Network
+# Seminar 1 Hanieh Memarian
+
+Graph Neural Network
